@@ -10,4 +10,4 @@ _seriously, what is it?_
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=troyvassalotti&show_icons=true&theme=synthwave&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troyvassalotti)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troyvassalotti&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
