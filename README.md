@@ -7,3 +7,5 @@ _seriously, what is it?_
 - 🤔 I’m looking for help with ... Just about everything, probably.
 - 💬 Ask me about ... My bands (Front Royal; troy.)
 - 📫 How to reach me: ... https://troyv.dev/
+
+[![Troy's github stats](https://github-readme-stats.vercel.app/api?username=troyvassalotti)](https://github.com/anuraghazra/github-readme-stats)
