@@ -9,7 +9,7 @@ _seriously, what is it?_
 - 📫 How to reach me: ... https://troyv.dev/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=troyvassalotti&show_icons=true&theme=synthwave&hide=issues" alt="These are my github stats as pulled in from github-readme-stats by anuraghazra." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=troyvassalotti&show_icons=true&theme=synthwave&hide=issues,stars" alt="These are my github stats as pulled in from github-readme-stats by anuraghazra." />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=troyvassalotti&theme=synthwave&layout=compact" alt="These are my most used languages on github as pulled in from github-readme-stats by anuraghazra." />
