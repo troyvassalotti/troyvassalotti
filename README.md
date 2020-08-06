@@ -8,4 +8,6 @@ _seriously, what is it?_
 - 💬 Ask me about ... My bands (Front Royal; troy.)
 - 📫 How to reach me: ... https://troyv.dev/
 
-[![Troy's github stats](https://github-readme-stats.vercel.app/api?username=troyvassalotti&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troyvassalotti)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=troyvassalotti&show_icons=true&theme=synthwave&hide=stars,commits,prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troyvassalotti)](https://github.com/anuraghazra/github-readme-stats)
