@@ -1,11 +1,10 @@
 # What's "Updog?"
 _seriously, what is it?_
 
-- 🔭 I’m currently working on ... Pang (a social media site for you and only you).
-- 🌱 I’m currently learning ... Vue.
-- 👯 I’m looking to collaborate on ... Just about anything probably.
-- 🤔 I’m looking for help with ... Just about everything, probably.
-- 💬 Ask me about ... My bands (Front Royal; troy.)
+- 🔭 Right now? Thinking through ways to redesign my personal site. It's a bit behind on showcasing new personal projects I've done (check my repos!).
+- 🌱 Coming up? SVG would be nice to learn in-depth.
+- 👯 Open to collaboration? I recently made an audio player/playlist component with JS/SASS/HTML if anyone wants to help me make it better. See it live at on this [demo site for my band](https://validcharacters.netlify.app/).
+- 💬 Speaking of which, ask me about my music! [Front Royal](https://www.frontroyalband.com) and [troy.](https://justtroy.bandcamp.com).
 - 📫 How to reach me: ... https://troyv.dev/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
